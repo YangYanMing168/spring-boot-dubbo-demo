@@ -19,7 +19,7 @@ public class HelloWorldImplTest {
     private HelloWorld helloWorld;
     @Before
     public void setUp() throws Exception {
-        
+
     }
 
     @After
